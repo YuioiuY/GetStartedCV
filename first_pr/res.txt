@@ -1,0 +1,5 @@
+#библиотеки для установки
+#pip install -r res
+numpy
+opencv-python
+pillow
