@@ -45,6 +45,8 @@ https://www.kaggle.com/code/prashant111/mnist-deep-neural-network-with-keras
 
 - https://www.kaggle.com/c/dogs-vs-cats (Загрузка датасета, если возникают проблемы можете попросить одногруппников вам помочь 🙂)
 
+- https://drive.google.com/drive/folders/14IQTUwpINc0J1oqsqRU8LaEc6xD76N0C?usp=sharing (на всякий случай закинул ещё датасет на гугл диск)
+
 - https://machinelearningmastery.ru/deep-blue-sea-using-deep-learning-to-detect-hundreds-of-different-plankton-species-dff895d3b226/ (CNN)
 
 - https://habr.com/ru/articles/309508/ (Основной материал лекции)
@@ -56,3 +58,5 @@ https://www.kaggle.com/code/prashant111/mnist-deep-neural-network-with-keras
 - https://habr.com/ru/companies/ods/articles/344008/
 
 - https://habr.com/ru/articles/456186/
+
+Da
