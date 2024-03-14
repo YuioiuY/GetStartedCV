@@ -21,7 +21,7 @@ https://github.com/YuioiuY/GetStartedCV/tree/main/second_pr <= Задание в
 
 https://github.com/YuioiuY/GetStartedCV/tree/main/tensorflow <= Задание внутри 💡
 
-## 4. Создание собственного голосового помошника на базе RNN. 📖
+## 4. Создание собственного голосового помощника на базе RNN. 📖
 
 https://github.com/YuioiuY/GetStartedCV/tree/main/four_pr <= Задание внутри 💡
 
