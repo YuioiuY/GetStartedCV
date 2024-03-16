@@ -12,11 +12,11 @@ import tensorflow as tf
 cwd = os.getcwd()  # Get the current working directory (cwd)
 files = os.listdir(cwd)  # Get all the files in that directory
 
-with open('RNN\\four_pr\\text.txt', 'r', encoding='utf-8') as f:
+with open('four_pr\\RNN\\text.txt', 'r', encoding='utf-8') as f:
     texts = f.read()
     texts = texts.replace('\ufeff', '')  # убираем первый невидимый символ
 
-maxWordsCount = 10000
+maxWordsCount = 1000
 tokenizer = Tokenizer(num_words=maxWordsCount, filters='!–"—#$%&amp;()*+,-./:;<=>?@[\\]^_`{|}~\t\n\r«»',
                       lower=True, split=' ', char_level=False)
 tokenizer.fit_on_texts([texts])

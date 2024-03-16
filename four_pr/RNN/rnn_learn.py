@@ -10,15 +10,16 @@ from tensorflow.keras.utils import to_categorical
 
 #region Const
 
-maxWordsCount = 10000 # max number of words
-inp_words = 4 # max input words
+maxWordsCount = 1000 # max number of words
+inp_words = 3 # max input words
 
 #endregion
 
 
-cwd = os.getcwd()  # Get the current working directory (cwd)
+""" cwd = os.getcwd()  # Get the current working directory (cwd)
 files = os.listdir(cwd)  # Get all the files in that directory
 print(cwd)
+ """
 
 # read file 
 with open('four_pr\\RNN\\text.txt', 'r', encoding='utf-8') as f:
