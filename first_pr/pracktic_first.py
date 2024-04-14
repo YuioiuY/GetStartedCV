@@ -102,14 +102,14 @@ square_animation[0].save(
 
 #region first try
 
-""" photo_file = cv2.imread('img/street.jpg') # write image
+photo_file = cv2.imread('img/street.jpg') # write image
 
 print(photo_file)   # read image
 print(type(photo_file)) # <class 'numpy.ndarray'>
 
 cv2.imshow('photo_file',photo_file) # show image
 
-cv2.waitKey(0) # wait for quit """
+cv2.waitKey(0) # wait for quit
 
 #endregion
 
