@@ -1,6 +1,6 @@
 # JetSon_Project_Yolo
 
-![alt text](https://github.com/YuioiuY/GetStartedCV/tree/main/PROJECT/video/dep.gif)
+![alt text](https://github.com/YuioiuY/GetStartedCV/blob/main/PROJECT/video/dep.gif)
 
 ## App 
 
@@ -15,7 +15,7 @@ id сообщения лучше не трогать, пока не будет �
 
 Настройки максимально просты и не требуют глубоких познаний. 
 
-![alt text](https://github.com/YuioiuY/GetStartedCV/tree/main/PROJECT/img/2023-10-09_11-47-21.png)
+![alt text](https://github.com/YuioiuY/GetStartedCV/blob/main/PROJECT/img/2023-10-09_11-47-21.png)
 
 
 ## Функционал 
@@ -50,10 +50,10 @@ id сообщения лучше не трогать, пока не будет �
 ВНИМАНИЕ! есть две версии:
 
 - для трансляции с 1-ой камеры 
-![alt text](https://github.com/YuioiuY/GetStartedCV/tree/main/PROJECT/img/1camapp.png)
+![alt text](https://github.com/YuioiuY/GetStartedCV/blob/main/PROJECT/img/1camapp.png)
 
 - для трансляции с 4-ех камер 
-![alt text](https://github.com/YuioiuY/GetStartedCV/tree/main/PROJECT/img/4camapp.png)
+![alt text](https://github.com/YuioiuY/GetStartedCV/blob/main/PROJECT/img/4camapp.png)
 
 
 - Так же еть две версии для jetson! 
@@ -131,7 +131,7 @@ https://supereyes.ru/catalog/mikrokompyutery_nvidia_jetson/jetson_nano_4gb_devel
 + понижайка + флешка USB-CAN + провода + радиаторы и термопрокладки 
 
 
-![alt text](https://github.com/YuioiuY/GetStartedCV/tree/main/PROJECT/video/jet.png)
+![alt text](https://github.com/YuioiuY/GetStartedCV/blob/main/PROJECT/video/jet.png)
 
 
 ## Build 
